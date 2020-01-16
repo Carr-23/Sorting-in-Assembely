@@ -1,4 +1,4 @@
-# Sorting-in-Assembely
+# Sorting-in-Assembly
 Sorting 5, 2 byte numbers in assembly
 
 The way the logic works is:
